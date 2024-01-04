@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountBundle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2379087bfb456f12b0b73cf44122422e9ebc48f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountBundle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountBundle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

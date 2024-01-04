@@ -115,6 +115,12 @@ class Program
                 minAvailableCount = Math.Min(minAvailableCount, partAvailableCount);
             }
         }
+        else if (obj is BundlePartSubEntity bundleSubPartObj)
+        {
+            bundleSubPart = bundleSubPartObj;
+
+            return bundleSubPart.InventoryCount;
+        }
         return minAvailableCount;
     }
 }

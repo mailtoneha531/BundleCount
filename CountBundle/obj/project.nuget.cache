@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EYGJzoU7dQ1Z45XBc/S3NWjybsJhugaN0H+qu+4AvQEMvLnJ0aCZkKdxWEf9M2ATu/Jn0I3ThcVJlUIkRzVB3g==",
+  "dgSpecHash": "WA6TK2bsZPlEI+Qt8FuFE9XdZ0YEloRW7pA3VkvEvi1EswVa0VejstkOhNBKAsWDuyGC2SbBRlXwJjUrsh/Hsg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CountBundle\\CountBundle\\CountBundle.csproj",
+  "projectFilePath": "D:\\Projects\\CountBundle\\BikeCount\\CountBundle\\CountBundle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mailt\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\mailt\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
